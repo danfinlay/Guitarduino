@@ -24,6 +24,11 @@ I decided I would try to make the first prototype as simple as possible, and doc
  - A simple code file that is immediately compatible with the fritzing example.
  - The entire project can be built in the body of an old electric guitar.
 
+## Current Wiring
+
+![](./images/schematic1.jpg)
+![](./images/breadboard1.jpg)
+
 ## Roadmap
 
 - [x] Get a single string playing on a single speaker.
