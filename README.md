@@ -2,7 +2,7 @@
 
 A digital instrument in the body of a Guitar.
 
-![guitarduino](https://twitter.com/danfinlay/status/819793374282534912/photo/1)
+![guitarduino](https://pbs.twimg.com/media/C2B9rvHUcAEAMDg.jpg:large)
 
 ## Inspirations
 
